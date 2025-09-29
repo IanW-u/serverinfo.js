@@ -1,1 +1,1 @@
-This is essentially a server information command, nothing much to it. Made for Discord
+This is essentially a server information command, nothing much to it. Made for Discord with discord.js
